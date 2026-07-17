@@ -49,7 +49,7 @@ This project proposes a **low-cost, real-time, scalable IoT solution** combining
 | ✅ | Power Supply | 5V USB Adapter | Power source |
 | ✅ | Laptop / PC | 12GB RAM Minimum | Runs AI model & dashboard |
 | ✅ | Arduino UNO | Basic | Upload firmware to ESP32-CAM |
-| ✅ | MAX485E | TTL to RS-485 | Sensor communication |
+
 
 
 ---

@@ -185,18 +185,6 @@ ESP32 + Camera + Sensors
 
 ---
 
-# 📦 Deliverables
-
-- ESP32-CAM setup
-- Leaf wetness & humidity sensing
-- TinyLite CNN model
-- Trained `.keras` model
-- Dashboard
-- LED alert system
-- End-to-end integration
-
----
-
 # 🌍 Sustainable Development Goals (SDGs)
 
 | SDG | Goal | Alignment |

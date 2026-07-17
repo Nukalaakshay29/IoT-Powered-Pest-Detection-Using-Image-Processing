@@ -168,11 +168,9 @@ ESP32 + Camera + Sensors
 
 ---
 
-# 🖼️ Architecture Diagram
+## 🏗️ Architecture Diagram
 
-```md
-![Architecture Diagram](./images/Architecture_Diagram.png)
-```
+![Architecture Diagram](images/Architecture_Diagram.png)
 
 ---
 

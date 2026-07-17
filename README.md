@@ -21,8 +21,8 @@ Existing automated pest and disease detection systems typically fall into two ca
 
 This project proposes a **low-cost, real-time, scalable IoT solution** combining image processing and environmental sensing while performing efficient local inference.
 
-Dataset: Taken from KAGGLE 
-Name of the dataset: PlantVillage
+- Dataset: Taken from KAGGLE 
+- Name of the dataset: PlantVillage
 
 ---
 
